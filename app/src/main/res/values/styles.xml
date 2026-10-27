@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme configuration layout -->
+    <style name="Theme.AppCompat.NoActionBar" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">#121212</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
